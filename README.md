@@ -1,5 +1,5 @@
 # processing-portfolio
-Showcase (使用Gyazo GIF錄製)
+
 
 碰到就會抖，碰到也會說話
 =====
